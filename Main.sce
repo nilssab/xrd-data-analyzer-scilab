@@ -1,6 +1,6 @@
-//clear
-//exec("y_func.sce path")
-//ecec("find_peaks.sce path") //1.0002% limit is set in here
+clear
+exec("y_func.sce path")
+ecec("find_peaks.sce path") //1.0002% limit is set in here
 
 bRes = csvDefault("eol", "linux")
 
